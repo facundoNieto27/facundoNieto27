@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+**From Retail to Code**
+
+🎯 Web developer focused on building functional, well-structured solutions. Passionate about continuous learning, clean code, and collaborative teamwork.
+
+🧠 I believe in responsibility, honesty, and constant improvement as key pillars of professional growth. I aim to deliver real value through every project, grounded in ethics and commitment.
+
+🚀 Transitioning from the retail industry into software development, with the strong belief that effort, proactive attitude, and good practices make all the difference.
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I am a self taught Full Stack Developer;
