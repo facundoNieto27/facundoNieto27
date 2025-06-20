@@ -10,12 +10,12 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am a self taught Full Stack Developer;
-- 🌱 Currently learning PostgreSQL and Supabase; 
-- 💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you;
-- 📫 How to reach me: Write to me <a href="mailto:tucorreo@gmail.com">facundo.a.nieto@gmail.com</a>;
-- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume](https://docs.google.com/document/d/1qjaaozKvyZf53WQ32BHVb_KSnVUydTCX/view);
+- 👨🏽‍💻 I am a self taught Full Stack Developer.
+- 🌱 Currently learning PostgreSQL and Supabase. 
+- 💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science.
+- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+- 📫 How to reach me: Write to me <a href="mailto:tucorreo@gmail.com">facundo.a.nieto@gmail.com</a>.
+- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume](https://docs.google.com/document/d/1qjaaozKvyZf53WQ32BHVb_KSnVUydTCX/view).
 
 **Languages and Tools:**  
 
